@@ -4,7 +4,7 @@
 ## Summary
 
 Computer Engineering graduate with hands-on experience in designing scalable distributed systems, developing data pipelines, and integrating machine learning models. Proficient in Python, with expertise in data analysis and visualization techniques. Passionate about financial, ESG, and climate-related data.  
-`Python Developer` | `Data Engineering` | `Big Data Solutions`
+
 
 
 ## Skills
